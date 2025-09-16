@@ -1,20 +1,22 @@
-# Experiment 1: ALU Design using Enumerated Data Types and Case Statements
+# EXPERIMENT  1: ALU DESIGN USING ENUMERATED DATA TYPES AND CASE STATEMENTS
 
 ---
 
-## Aim  
+## AIM: 
 To design and simulate a **4-bit Arithmetic Logic Unit (ALU)** using **SystemVerilog HDL** with **Enumerated Data Types and Case Statements**, and verify its functionality using **ModelSim 2020.1**.
 
 ---
 
-## Apparatus Required  
+## APPARATUS REQUIRED:
+
 - Computer with **Windows** OS  
 - **ModelSim 2020.1** (or later) installed  
 - SystemVerilog source code editor  
 
 ---
 
-## Description about ALU  
+## DESCRIPITION  ABOUT  ALU 
+
 An **Arithmetic Logic Unit (ALU)** is a combinational circuit that performs arithmetic and logical operations.  
 In this experiment, the ALU is designed using:  
 - **Enumerated Data Types** to represent ALU operations in a readable form.  
@@ -29,7 +31,7 @@ Common ALU operations included in this design are:
 
 ---
 
-## Features
+## FEATURES
 - Uses **SystemVerilog Enumerated Types** for operation selection  
 - Implements ALU operations with **Case Statements**  
 - Parameterized design for scalability  
@@ -38,7 +40,7 @@ Common ALU operations included in this design are:
 
 ---
 
-## Procedure  
+## PROCEDURE: 
 
 1. **Open ModelSim 2020.1**  
    - Launch the ModelSim IDE from the Start Menu (Windows) or terminal (Linux).  
